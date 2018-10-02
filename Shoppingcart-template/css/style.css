@@ -1,0 +1,9 @@
+/* Your custom styles */
+.flex
+{
+	display: flex;
+}
+.heart{
+    margin-top: 0.4rem;
+    margin-left: 0.4rem;
+}
